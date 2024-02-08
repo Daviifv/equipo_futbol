@@ -6,3 +6,4 @@
 "Alex Baena" 
 "David Fraile"
 "Nuevo jugador desde GitHub"
+"Jugador ejercicio 58 local"
