@@ -9,8 +9,8 @@
 * Utilleros
 
 ![Imagen Balon](balon.jpg)
-
-_*Ven a conocernos*_
+#### Para modificar el tamaño tendria que insertar html
+_*Ven* a conocernos_
 
 [Página de FIFA](https://www.fifa.com/fifaplus/es/)
 
