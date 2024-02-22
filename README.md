@@ -8,11 +8,11 @@
 * Titulos
 * Utilleros
 
-![GitHub Logo](balon.jpg)
+![Imagen Balon](balon.jpg)
 
-*_Ven a conocernos_*
+_*Ven a conocernos*_
 
-[GitHub](https://www.fifa.com/fifaplus/es/)
+[Página de FIFA](https://www.fifa.com/fifaplus/es/)
 
 >Estamos disponibles de
 >8:00 a 15:00
