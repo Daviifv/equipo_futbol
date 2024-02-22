@@ -11,7 +11,7 @@
 ![Imagen Balon](balon.jpg)
 #### Para modificar el tamaño tendria que insertar html
 
-__Ven a conocernos__
+_Ven a conocernos_
 
 **Estamos todos los dias**
 
